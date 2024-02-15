@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 import app from "./src/app.js";
-import config from "./src/confif/index.js";
+import config from "./src/config/index.js";
 
 //first thing after starting a backend is to database connection
 //IIFE (SELF INVOKED FUNCTION)
